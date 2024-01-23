@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea40a61d.css",
-    "main.js": "/static/js/main.cee7288d.js",
-    "static/js/787.2d975aa3.chunk.js": "/static/js/787.2d975aa3.chunk.js",
-    "index.html": "/index.html",
-    "main.ea40a61d.css.map": "/static/css/main.ea40a61d.css.map",
-    "main.cee7288d.js.map": "/static/js/main.cee7288d.js.map",
-    "787.2d975aa3.chunk.js.map": "/static/js/787.2d975aa3.chunk.js.map"
+    "main.css": "/Poder-de-Compra-del-Ingreso/static/css/main.ea40a61d.css",
+    "main.js": "/Poder-de-Compra-del-Ingreso/static/js/main.772b991b.js",
+    "static/js/787.2d975aa3.chunk.js": "/Poder-de-Compra-del-Ingreso/static/js/787.2d975aa3.chunk.js",
+    "index.html": "/Poder-de-Compra-del-Ingreso/index.html",
+    "main.ea40a61d.css.map": "/Poder-de-Compra-del-Ingreso/static/css/main.ea40a61d.css.map",
+    "main.772b991b.js.map": "/Poder-de-Compra-del-Ingreso/static/js/main.772b991b.js.map",
+    "787.2d975aa3.chunk.js.map": "/Poder-de-Compra-del-Ingreso/static/js/787.2d975aa3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea40a61d.css",
-    "static/js/main.cee7288d.js"
+    "static/js/main.772b991b.js"
   ]
 }
